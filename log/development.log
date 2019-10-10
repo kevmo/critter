@@ -1,0 +1,9 @@
+  [1m[35m (426.2ms)[0m  [1m[35mCREATE DATABASE "critter_development" ENCODING = 'unicode'[0m
+  [1m[35m (405.5ms)[0m  [1m[35mCREATE DATABASE "critter_test" ENCODING = 'unicode'[0m
+Started GET "/" for ::1 at 2019-10-10 17:28:49 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/home/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/home/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.2ms | Allocations: 489)
+Completed 200 OK in 23ms (Views: 12.6ms | ActiveRecord: 0.0ms | Allocations: 2844)
+
+
