@@ -581,3 +581,27 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 15ms (Views: 13.8ms | ActiveRecord: 0.0ms | Allocations: 17263)
 
 
+Started GET "/" for ::1 at 2019-10-13 10:12:20 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 885)
+  Rendered layouts/_header.html.erb (Duration: 0.6ms | Allocations: 263)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms | Allocations: 27179)
+
+
+Started GET "/" for ::1 at 2019-10-13 10:12:22 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 736)
+  Rendered layouts/_header.html.erb (Duration: 0.1ms | Allocations: 93)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 16840)
+
+
+Started GET "/signup" for ::1 at 2019-10-13 10:12:25 -0400
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.2ms | Allocations: 84)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 122)
+Completed 200 OK in 13ms (Views: 12.5ms | ActiveRecord: 0.0ms | Allocations: 16878)
+
+
