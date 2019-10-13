@@ -148,3 +148,436 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 6302)
 
 
+Started GET "/" for ::1 at 2019-10-12 10:56:25 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 5286)
+
+
+Started GET "/" for ::1 at 2019-10-12 11:16:34 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 96)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 6309)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:22:59 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 91)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 6446)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:23:05 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 5347)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:23:07 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 18ms (Views: 17.2ms | ActiveRecord: 0.0ms | Allocations: 5369)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:23:08 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 5351)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:29:38 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 114)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 6505)
+
+
+Started GET "/static_pages/about" for ::1 at 2019-10-12 19:29:55 -0400
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.erb within layouts/application
+  Rendered static_pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 92)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 5578)
+
+
+Started GET "/static_pages/home" for ::1 at 2019-10-12 19:30:00 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 5359)
+
+
+Started GET "/static_pages/home" for ::1 at 2019-10-12 19:32:27 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 5357)
+
+
+Started GET "/static_pages/home" for ::1 at 2019-10-12 19:32:29 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 5354)
+
+
+Started GET "/static_pages/home" for ::1 at 2019-10-12 19:32:30 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 5352)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:32:35 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 5351)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:32:44 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 234)
+Completed 200 OK in 781ms (Views: 772.8ms | ActiveRecord: 0.0ms | Allocations: 1337164)
+
+
+Started GET "/" for ::1 at 2019-10-12 19:33:17 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 162)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 6557)
+
+
+Started GET "/" for ::1 at 2019-10-13 08:50:20 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 16.5ms | Allocations: 6522)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms | Allocations: 7724)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:47 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 181.5ms | Allocations: 286606)
+Completed 500 Internal Server Error in 191ms (ActiveRecord: 0.0ms | Allocations: 288578)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:50 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 3.1ms | Allocations: 4042)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms | Allocations: 4499)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:50 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 4042)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms | Allocations: 4491)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:50 -0400
+Started GET "/" for ::1 at 2019-10-13 08:50:50 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 4721)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms | Allocations: 5618)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 163.9ms | Allocations: 315831)
+Completed 500 Internal Server Error in 165ms (ActiveRecord: 0.0ms | Allocations: 316282)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:51 -0400
+Started GET "/" for ::1 at 2019-10-13 08:50:51 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 10.1ms | Allocations: 12551)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms | Allocations: 20643)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 205.5ms | Allocations: 326478)
+Completed 500 Internal Server Error in 207ms (ActiveRecord: 0.0ms | Allocations: 327834)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:51 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 4.6ms | Allocations: 10673)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms | Allocations: 12101)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:51 -0400
+Started GET "/" for ::1 at 2019-10-13 08:50:51 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 23.1ms | Allocations: 38006)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.0ms | Allocations: 39243)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:51 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 180.7ms | Allocations: 351914)
+Completed 500 Internal Server Error in 181ms (ActiveRecord: 0.0ms | Allocations: 352361)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:50:52 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 177.6ms | Allocations: 352691)
+Completed 500 Internal Server Error in 178ms (ActiveRecord: 0.0ms | Allocations: 353545)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 157.1ms | Allocations: 315302)
+Completed 500 Internal Server Error in 158ms (ActiveRecord: 0.0ms | Allocations: 316408)
+
+
+  
+ActionView::Template::Error (The asset "shark.jpg" is not present in the asset pipeline.):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("shark.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 08:51:24 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 589.6ms | Allocations: 1049242)
+Completed 200 OK in 598ms (Views: 596.9ms | ActiveRecord: 0.0ms | Allocations: 1055909)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:02:05 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 195.2ms | Allocations: 290052)
+Completed 500 Internal Server Error in 205ms (ActiveRecord: 0.0ms | Allocations: 292020)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "@import ": expected file to import (string or url()), was ""bootstrap;"):
+     6: 
+     7:   <%= link_to "Sign up now!",  "#", class: "btn btn-lg btn-primary" %>
+     8: 
+     9:   <%= link_to image_tag("jaws.jpg", alt: "JAWS"), "https://wikipedia.org" %>
+    10: </div>
+    11: m
+  
+app/assets/stylesheets/custom.scss:2
+app/views/static_pages/home.html.erb:9
+Started GET "/" for ::1 at 2019-10-13 09:02:48 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 2664.2ms | Allocations: 3207860)
+Completed 200 OK in 2686ms (Views: 2685.8ms | ActiveRecord: 0.0ms | Allocations: 3225180)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:05:25 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 691)
+Completed 200 OK in 934ms (Views: 933.6ms | ActiveRecord: 0.0ms | Allocations: 1322300)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:10:51 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 1.0ms | Allocations: 694)
+Completed 200 OK in 1003ms (Views: 1002.2ms | ActiveRecord: 0.0ms | Allocations: 1328626)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:11:14 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 691)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 15495)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:11:34 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 691)
+Completed 200 OK in 973ms (Views: 972.5ms | ActiveRecord: 0.0ms | Allocations: 1330373)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:12:00 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 692)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 15507)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:15:49 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 1.1ms | Allocations: 845)
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 235)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms | Allocations: 16959)
+
+
+Started GET "/" for ::1 at 2019-10-13 09:55:28 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 850)
+  Rendered layouts/_header.html.erb (Duration: 0.4ms | Allocations: 271)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 17206)
+
+
+Started GET "/help" for ::1 at 2019-10-13 09:55:31 -0400
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.erb within layouts/application
+  Rendered static_pages/help.html.erb within layouts/application (Duration: 0.3ms | Allocations: 98)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 97)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms | Allocations: 15481)
+
+
+Started GET "/" for ::1 at 2019-10-13 10:05:40 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 703)
+  Rendered layouts/_header.html.erb (Duration: 0.1ms | Allocations: 92)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 15807)
+
+
+Started GET "/" for ::1 at 2019-10-13 10:06:15 -0400
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (Duration: 1.0ms | Allocations: 851)
+  Rendered layouts/_header.html.erb (Duration: 0.4ms | Allocations: 285)
+Completed 200 OK in 15ms (Views: 13.8ms | ActiveRecord: 0.0ms | Allocations: 17263)
+
+
